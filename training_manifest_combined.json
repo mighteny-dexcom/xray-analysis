@@ -1,0 +1,1578 @@
+[
+  {
+    "image_path": "training_images/101082076340.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/101417395279.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/102893416258.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/103621423795.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/105786274746.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/106531346109.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/113787317179.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/114079399752.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/118983560625.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/119447965120.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/120397349956.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/120804631108.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/142041456310.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/142836539826.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/143815546190.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/144724937404.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/163226655670.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/166088960583.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/167893551801.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/172587457869.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/178037104203.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/178903546689.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/180921679689.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/182903689144.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/197261906759.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/199882740928.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/202982049212.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/211243928143.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/215026030671.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/215557382217.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/221363404621.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/223664320070.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/228025973575.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/232638946742.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/235372382398.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/235396922814.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/235645375414.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/240888036792.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/247366902965.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/251479730617.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/252891592891.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/253653870262.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/259363392331.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/264945833804.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/265045351752.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/265680282555.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/266468327859.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/267128816061.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/276823697339.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/280705077948.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/289575705783.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/289672022859.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/296569259963.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/308978034359.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/314230865735.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/316842205516.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/327432181430.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/331918778302.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/341487519931.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/346459418046.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/349088410559.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/357770993597.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/358682804920.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/373534903368.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/373664986695.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/398868902217.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/422949066061.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/428831238581.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/435589989703.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/437383639117.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/443045783985.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/447338559157.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/451762379192.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/460950866510.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/462946971323.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/464548679869.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/466021835338.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/466566682043.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/467460732083.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/472468127053.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/477299306677.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/480227736387.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/480837496767.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/482733349698.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/486760335284.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/488619217592.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/491105155005.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/491847717562.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/496142704973.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/510805316419.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/513930517687.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/516616017341.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/523050548921.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/524138358857.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/527172737352.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/529867870791.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/536009871026.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/547114798663.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/551048738749.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/555630700359.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/556195332168.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/556611973699.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/559537198518.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/561323951683.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/561728504132.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/563046534976.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/572368203699.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/572486126519.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/576936051009.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/587059559616.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/588847129666.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/590370280892.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/605428579911.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/612300431435.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/615612819377.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/618816451764.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/620444882609.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/621374394181.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/622975995069.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/623317835073.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/623666799689.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/625023228491.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/625447992498.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/626620830530.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/629973646147.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/635414170436.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/636235740226.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/639371999050.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/640220786500.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/652762227897.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/653692861369.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/659305212856.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/661488970060.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/671392252608.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/672795451464.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/672938473544.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/675060096582.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/679018572733.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/682207035825.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/690958042446.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/692136125001.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/702782766407.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/704980008889.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/708467886516.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/712343534271.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/715819457462.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/718114798007.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/722860188083.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/729013613897.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/737627454388.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/739981398965.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/743139038652.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/765317642058.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/766760780209.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/767241138111.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/768206443190.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/768265782965.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/770764750413.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/773122333876.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/781675750070.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/783056375118.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/783886284475.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/786463671873.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/789106797385.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/806577898944.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/807180007352.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/814283221949.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/814616524367.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/825434618549.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/825918978638.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/826549000380.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/838104889792.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/840798331317.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/844201600577.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/861528190910.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/872570087100.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/875291186354.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/875582454449.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/880026335306.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/886363630927.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/903525848136.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/916409262914.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/938264321202.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/940200980403.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/940489148994.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/943043142835.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/945647930949.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/946978196408.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/947534891080.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/953673918650.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/963663945294.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/965728653642.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/970051115086.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/975655345738.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/982427299913.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/985381156530.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/988175188917.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/990163597122.png",
+    "label": 1
+  },
+  {
+    "image_path": "training_images/994210567611.png",
+    "label": 0
+  },
+  {
+    "image_path": "training_images/996794675782.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/100683721545.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/103752098888.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/105305868728.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/108166397110.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/109161234623.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/113888476861.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/123863906634.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/129919116613.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/148161566024.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/148417858747.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/148463971394.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/149522115008.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/151206618955.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/158034883405.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/158193408587.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/172568228160.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/173428729018.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/176374086334.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/182187375682.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/184487830344.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/190057945925.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/210957268805.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/222382043327.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/225002671173.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/225180067138.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/232171879612.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/244324832069.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/259255730498.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/267113779010.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/269583189425.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/270887454392.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/273937061192.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/277423186502.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/283171138993.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/290728783030.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/309983538102.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/318662027078.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/319185342538.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/325722455985.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/329539556029.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/336916579249.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/346212849841.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/348567984713.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/354186451390.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/354798396350.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/355056301493.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/361885417549.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/392992064698.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/398878110026.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/401129873841.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/401341442993.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/403431951293.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/410278626892.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/413558545995.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/417478220210.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/434048421956.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/434197864882.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/434545307064.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/446252516943.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/447750593604.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/450315197364.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/460053193919.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/462874315592.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/466298954432.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/468340039358.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/474407838912.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/478194659509.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/484980164165.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/491796440503.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/493457240250.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/516657711806.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/518717694911.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/525394511171.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/540851370061.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/554743234240.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/554832693315.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/555665241020.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/556400032444.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/557809825615.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/563252830400.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/565215309755.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/566471974069.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/567136128445.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/569490619972.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/570089579073.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/570493072575.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/574688274358.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/579238440383.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/582304021696.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/617837506748.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/633793477554.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/636995413828.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/638426651069.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/645462441287.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/649279955387.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/649542797503.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/650799904839.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/652901456314.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/657023659588.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/659378657213.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/661598843062.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/662218082890.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/669742848331.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/670682694592.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/671223858502.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/671788473930.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/677108240704.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/677770988107.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/685738925752.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/689809360309.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/698733391030.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/708271745870.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/713804198464.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/713963149755.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/716668117172.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/717410119606.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/719920856758.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/720028294731.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/722427833536.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/723606711372.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/725930095946.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/727759213123.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/728979258806.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/732589830478.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/739068637875.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/740780787902.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/744715360184.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/765941194422.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/766866360754.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/768008327352.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/771007567937.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/771305908036.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/773689805246.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/784628635213.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/787840606901.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/795439862719.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/796763867983.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/798619658168.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/801988742588.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/812238139582.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/813344571718.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/814668654148.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/815382926924.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/818002562744.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/818577664956.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/822905288886.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/825883459002.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/832551612086.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/834171870531.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/839764858700.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/841337970500.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/845201556154.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/851483541171.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/855568815951.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/858976006472.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/861083380043.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/866474986167.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/870635067575.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/872552124351.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/877610624703.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/879038254409.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/881745128774.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/883329066929.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/888520149438.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/890977074497.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/900305764426.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/901704239283.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/906257545403.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/907149671347.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/908832086606.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/919011909706.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/921017135294.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/922744759731.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/923758565958.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/926992962639.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/935324551864.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/936620917581.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/939922740037.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/941638161993.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/947809535808.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/951144179273.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/952721781827.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/964287855544.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/965574321341.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/965575363912.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/975270280771.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/979746705478.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/981922321990.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/983566739014.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/984347298496.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/986237200969.png",
+    "label": 0
+  },
+  {
+    "image_path": "validation_images/994953646145.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/999395024206.png",
+    "label": 1
+  },
+  {
+    "image_path": "validation_images/999480712114.png",
+    "label": 1
+  }
+]

@@ -1,0 +1,2366 @@
+[
+  {
+    "image_path": "lot1_images\\112355144896.png",
+    "label": 1,
+    "txid": "112355144896",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\120759097790.png",
+    "label": 1,
+    "txid": "120759097790",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\123175004236.png",
+    "label": 1,
+    "txid": "123175004236",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\124267776324.png",
+    "label": 0,
+    "txid": "124267776324",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\130604837055.png",
+    "label": 1,
+    "txid": "130604837055",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\142453839951.png",
+    "label": 1,
+    "txid": "142453839951",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\146929315517.png",
+    "label": 1,
+    "txid": "146929315517",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\149028783545.png",
+    "label": 1,
+    "txid": "149028783545",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\151155082681.png",
+    "label": 1,
+    "txid": "151155082681",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\151537534131.png",
+    "label": 0,
+    "txid": "151537534131",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\155989473975.png",
+    "label": 1,
+    "txid": "155989473975",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\156213568187.png",
+    "label": 0,
+    "txid": "156213568187",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\166382472116.png",
+    "label": 1,
+    "txid": "166382472116",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\166509453496.png",
+    "label": 1,
+    "txid": "166509453496",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\169090696779.png",
+    "label": 0,
+    "txid": "169090696779",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\174514983495.png",
+    "label": 0,
+    "txid": "174514983495",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\175390031804.png",
+    "label": 1,
+    "txid": "175390031804",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\179357137988.png",
+    "label": 1,
+    "txid": "179357137988",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\182189805135.png",
+    "label": 1,
+    "txid": "182189805135",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\192467887039.png",
+    "label": 0,
+    "txid": "192467887039",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\193557805901.png",
+    "label": 1,
+    "txid": "193557805901",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\196090507456.png",
+    "label": 1,
+    "txid": "196090507456",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\205703262287.png",
+    "label": 1,
+    "txid": "205703262287",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\205840398400.png",
+    "label": 1,
+    "txid": "205840398400",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\206595871045.png",
+    "label": 1,
+    "txid": "206595871045",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\208547652800.png",
+    "label": 1,
+    "txid": "208547652800",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\214450043723.png",
+    "label": 1,
+    "txid": "214450043723",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\214721435721.png",
+    "label": 1,
+    "txid": "214721435721",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\239896750261.png",
+    "label": 0,
+    "txid": "239896750261",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\244058564934.png",
+    "label": 1,
+    "txid": "244058564934",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\245037313719.png",
+    "label": 0,
+    "txid": "245037313719",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\245406637890.png",
+    "label": 1,
+    "txid": "245406637890",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\247840782403.png",
+    "label": 1,
+    "txid": "247840782403",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\248232501327.png",
+    "label": 1,
+    "txid": "248232501327",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\249775323326.png",
+    "label": 1,
+    "txid": "249775323326",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\249915343296.png",
+    "label": 1,
+    "txid": "249915343296",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\260964366783.png",
+    "label": 0,
+    "txid": "260964366783",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\261951236288.png",
+    "label": 0,
+    "txid": "261951236288",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\263748814009.png",
+    "label": 1,
+    "txid": "263748814009",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\275253725508.png",
+    "label": 1,
+    "txid": "275253725508",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\278279754428.png",
+    "label": 1,
+    "txid": "278279754428",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\280133655998.png",
+    "label": 1,
+    "txid": "280133655998",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\283316009148.png",
+    "label": 0,
+    "txid": "283316009148",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\283969448638.png",
+    "label": 1,
+    "txid": "283969448638",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\286294163640.png",
+    "label": 1,
+    "txid": "286294163640",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\294755582031.png",
+    "label": 1,
+    "txid": "294755582031",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\295071802298.png",
+    "label": 1,
+    "txid": "295071802298",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\296743604801.png",
+    "label": 1,
+    "txid": "296743604801",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\306180504901.png",
+    "label": 1,
+    "txid": "306180504901",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\309293207481.png",
+    "label": 1,
+    "txid": "309293207481",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\318393141950.png",
+    "label": 1,
+    "txid": "318393141950",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\319198180686.png",
+    "label": 1,
+    "txid": "319198180686",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\319284091322.png",
+    "label": 1,
+    "txid": "319284091322",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\319861391180.png",
+    "label": 0,
+    "txid": "319861391180",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\323049824837.png",
+    "label": 1,
+    "txid": "323049824837",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\323216066376.png",
+    "label": 0,
+    "txid": "323216066376",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\331994804662.png",
+    "label": 1,
+    "txid": "331994804662",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\332262029390.png",
+    "label": 1,
+    "txid": "332262029390",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\354494414668.png",
+    "label": 1,
+    "txid": "354494414668",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\357743806796.png",
+    "label": 1,
+    "txid": "357743806796",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\367033184947.png",
+    "label": 1,
+    "txid": "367033184947",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\368112377014.png",
+    "label": 1,
+    "txid": "368112377014",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\377396256589.png",
+    "label": 1,
+    "txid": "377396256589",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\382388955983.png",
+    "label": 0,
+    "txid": "382388955983",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\382842542770.png",
+    "label": 1,
+    "txid": "382842542770",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\385364175281.png",
+    "label": 1,
+    "txid": "385364175281",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\386594653886.png",
+    "label": 1,
+    "txid": "386594653886",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\388457243971.png",
+    "label": 1,
+    "txid": "388457243971",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\389333895104.png",
+    "label": 0,
+    "txid": "389333895104",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\389762947264.png",
+    "label": 1,
+    "txid": "389762947264",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\390659573835.png",
+    "label": 1,
+    "txid": "390659573835",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\391986630578.png",
+    "label": 1,
+    "txid": "391986630578",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\396096447168.png",
+    "label": 0,
+    "txid": "396096447168",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\401302850236.png",
+    "label": 0,
+    "txid": "401302850236",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\402709362358.png",
+    "label": 0,
+    "txid": "402709362358",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\405112526006.png",
+    "label": 1,
+    "txid": "405112526006",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\426616352327.png",
+    "label": 1,
+    "txid": "426616352327",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\440954259636.png",
+    "label": 1,
+    "txid": "440954259636",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\444257074368.png",
+    "label": 1,
+    "txid": "444257074368",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\446825971022.png",
+    "label": 1,
+    "txid": "446825971022",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\449079050821.png",
+    "label": 1,
+    "txid": "449079050821",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\449548601935.png",
+    "label": 0,
+    "txid": "449548601935",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\459842032575.png",
+    "label": 1,
+    "txid": "459842032575",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\461796723131.png",
+    "label": 1,
+    "txid": "461796723131",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\467170281550.png",
+    "label": 1,
+    "txid": "467170281550",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\471644500148.png",
+    "label": 1,
+    "txid": "471644500148",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\484148077390.png",
+    "label": 1,
+    "txid": "484148077390",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\485645061448.png",
+    "label": 1,
+    "txid": "485645061448",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\499184697528.png",
+    "label": 1,
+    "txid": "499184697528",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\504727923636.png",
+    "label": 0,
+    "txid": "504727923636",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\507660042820.png",
+    "label": 1,
+    "txid": "507660042820",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\513176860851.png",
+    "label": 1,
+    "txid": "513176860851",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\516484846771.png",
+    "label": 1,
+    "txid": "516484846771",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\519479014210.png",
+    "label": 1,
+    "txid": "519479014210",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\522346050627.png",
+    "label": 0,
+    "txid": "522346050627",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\522908640837.png",
+    "label": 1,
+    "txid": "522908640837",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\525197973685.png",
+    "label": 1,
+    "txid": "525197973685",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\547572953783.png",
+    "label": 1,
+    "txid": "547572953783",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\556833766071.png",
+    "label": 0,
+    "txid": "556833766071",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\560995798351.png",
+    "label": 1,
+    "txid": "560995798351",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\571767951545.png",
+    "label": 1,
+    "txid": "571767951545",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\580659249483.png",
+    "label": 0,
+    "txid": "580659249483",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\582449285561.png",
+    "label": 0,
+    "txid": "582449285561",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\584560114110.png",
+    "label": 1,
+    "txid": "584560114110",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\586526530994.png",
+    "label": 1,
+    "txid": "586526530994",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\586686362188.png",
+    "label": 1,
+    "txid": "586686362188",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\593048358219.png",
+    "label": 1,
+    "txid": "593048358219",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\597573327805.png",
+    "label": 1,
+    "txid": "597573327805",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\602136307896.png",
+    "label": 1,
+    "txid": "602136307896",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\606958517568.png",
+    "label": 0,
+    "txid": "606958517568",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\613760275528.png",
+    "label": 1,
+    "txid": "613760275528",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\614753560502.png",
+    "label": 0,
+    "txid": "614753560502",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\615252281023.png",
+    "label": 1,
+    "txid": "615252281023",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\615552493642.png",
+    "label": 0,
+    "txid": "615552493642",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\619348176309.png",
+    "label": 0,
+    "txid": "619348176309",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\619580543422.png",
+    "label": 0,
+    "txid": "619580543422",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\620015008072.png",
+    "label": 1,
+    "txid": "620015008072",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\630576825928.png",
+    "label": 1,
+    "txid": "630576825928",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\635882288057.png",
+    "label": 0,
+    "txid": "635882288057",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\639141782081.png",
+    "label": 0,
+    "txid": "639141782081",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\642073159236.png",
+    "label": 1,
+    "txid": "642073159236",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\642677760185.png",
+    "label": 0,
+    "txid": "642677760185",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\647486364860.png",
+    "label": 1,
+    "txid": "647486364860",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\652038062149.png",
+    "label": 1,
+    "txid": "652038062149",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\659626483531.png",
+    "label": 1,
+    "txid": "659626483531",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\661165245001.png",
+    "label": 1,
+    "txid": "661165245001",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\661650570431.png",
+    "label": 0,
+    "txid": "661650570431",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\665756876355.png",
+    "label": 0,
+    "txid": "665756876355",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\669513071035.png",
+    "label": 1,
+    "txid": "669513071035",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\674580554825.png",
+    "label": 1,
+    "txid": "674580554825",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\681676374607.png",
+    "label": 1,
+    "txid": "681676374607",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\681782384719.png",
+    "label": 1,
+    "txid": "681782384719",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\695103190974.png",
+    "label": 1,
+    "txid": "695103190974",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\704227637685.png",
+    "label": 1,
+    "txid": "704227637685",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\707174412619.png",
+    "label": 1,
+    "txid": "707174412619",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\715750723144.png",
+    "label": 1,
+    "txid": "715750723144",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\718882355381.png",
+    "label": 0,
+    "txid": "718882355381",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\719800238268.png",
+    "label": 1,
+    "txid": "719800238268",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\720577400643.png",
+    "label": 1,
+    "txid": "720577400643",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\731625393078.png",
+    "label": 1,
+    "txid": "731625393078",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\733571920565.png",
+    "label": 1,
+    "txid": "733571920565",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\740415804347.png",
+    "label": 1,
+    "txid": "740415804347",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\744864895154.png",
+    "label": 1,
+    "txid": "744864895154",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\763227218251.png",
+    "label": 1,
+    "txid": "763227218251",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\766231467443.png",
+    "label": 1,
+    "txid": "766231467443",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\772075801270.png",
+    "label": 1,
+    "txid": "772075801270",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\774859220810.png",
+    "label": 0,
+    "txid": "774859220810",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\777115535947.png",
+    "label": 0,
+    "txid": "777115535947",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\781371789125.png",
+    "label": 1,
+    "txid": "781371789125",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\783303208118.png",
+    "label": 1,
+    "txid": "783303208118",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\791527431747.png",
+    "label": 1,
+    "txid": "791527431747",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\794825429059.png",
+    "label": 1,
+    "txid": "794825429059",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\794854440884.png",
+    "label": 1,
+    "txid": "794854440884",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\797575029945.png",
+    "label": 1,
+    "txid": "797575029945",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\797972730440.png",
+    "label": 0,
+    "txid": "797972730440",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\803924128446.png",
+    "label": 1,
+    "txid": "803924128446",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\805665069245.png",
+    "label": 1,
+    "txid": "805665069245",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\806932709961.png",
+    "label": 0,
+    "txid": "806932709961",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\813154990525.png",
+    "label": 1,
+    "txid": "813154990525",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\817725309879.png",
+    "label": 1,
+    "txid": "817725309879",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\836490545741.png",
+    "label": 0,
+    "txid": "836490545741",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\849071065023.png",
+    "label": 0,
+    "txid": "849071065023",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\856487806141.png",
+    "label": 1,
+    "txid": "856487806141",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\858902953295.png",
+    "label": 1,
+    "txid": "858902953295",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\862861140299.png",
+    "label": 1,
+    "txid": "862861140299",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\864841279421.png",
+    "label": 1,
+    "txid": "864841279421",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\868021501374.png",
+    "label": 1,
+    "txid": "868021501374",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\868833658801.png",
+    "label": 1,
+    "txid": "868833658801",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\880259127222.png",
+    "label": 0,
+    "txid": "880259127222",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\886182148940.png",
+    "label": 1,
+    "txid": "886182148940",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\886867531076.png",
+    "label": 1,
+    "txid": "886867531076",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\888322663489.png",
+    "label": 1,
+    "txid": "888322663489",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\890095804352.png",
+    "label": 0,
+    "txid": "890095804352",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\891398565045.png",
+    "label": 1,
+    "txid": "891398565045",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\895001833401.png",
+    "label": 1,
+    "txid": "895001833401",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\897499303247.png",
+    "label": 1,
+    "txid": "897499303247",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\897961086908.png",
+    "label": 1,
+    "txid": "897961086908",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\899748003395.png",
+    "label": 1,
+    "txid": "899748003395",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\909969375041.png",
+    "label": 1,
+    "txid": "909969375041",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\910375338430.png",
+    "label": 1,
+    "txid": "910375338430",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\912784585295.png",
+    "label": 1,
+    "txid": "912784585295",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\914504784062.png",
+    "label": 1,
+    "txid": "914504784062",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\917176914357.png",
+    "label": 1,
+    "txid": "917176914357",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\919385873480.png",
+    "label": 1,
+    "txid": "919385873480",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\925324944308.png",
+    "label": 1,
+    "txid": "925324944308",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\927111601736.png",
+    "label": 1,
+    "txid": "927111601736",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\934821922376.png",
+    "label": 1,
+    "txid": "934821922376",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\937534603840.png",
+    "label": 0,
+    "txid": "937534603840",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\937575259065.png",
+    "label": 1,
+    "txid": "937575259065",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\948051671620.png",
+    "label": 1,
+    "txid": "948051671620",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\954455675968.png",
+    "label": 0,
+    "txid": "954455675968",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\955865492672.png",
+    "label": 1,
+    "txid": "955865492672",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\961190070350.png",
+    "label": 1,
+    "txid": "961190070350",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\966456388539.png",
+    "label": 1,
+    "txid": "966456388539",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\972654902082.png",
+    "label": 1,
+    "txid": "972654902082",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\973212003914.png",
+    "label": 1,
+    "txid": "973212003914",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\979603029826.png",
+    "label": 1,
+    "txid": "979603029826",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\992048473014.png",
+    "label": 1,
+    "txid": "992048473014",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\997506444101.png",
+    "label": 0,
+    "txid": "997506444101",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "lot1_images\\999098006976.png",
+    "label": 1,
+    "txid": "999098006976",
+    "lot": "Lot1"
+  },
+  {
+    "image_path": "validation_images\\100683721545.png",
+    "label": 1,
+    "txid": "100683721545",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\103752098888.png",
+    "label": 1,
+    "txid": "103752098888",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\105305868728.png",
+    "label": 1,
+    "txid": "105305868728",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\108166397110.png",
+    "label": 1,
+    "txid": "108166397110",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\109161234623.png",
+    "label": 1,
+    "txid": "109161234623",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\113888476861.png",
+    "label": 1,
+    "txid": "113888476861",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\123863906634.png",
+    "label": 1,
+    "txid": "123863906634",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\129919116613.png",
+    "label": 1,
+    "txid": "129919116613",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\148161566024.png",
+    "label": 1,
+    "txid": "148161566024",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\148417858747.png",
+    "label": 1,
+    "txid": "148417858747",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\148463971394.png",
+    "label": 1,
+    "txid": "148463971394",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\149522115008.png",
+    "label": 1,
+    "txid": "149522115008",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\151206618955.png",
+    "label": 1,
+    "txid": "151206618955",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\158034883405.png",
+    "label": 1,
+    "txid": "158034883405",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\158193408587.png",
+    "label": 1,
+    "txid": "158193408587",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\172568228160.png",
+    "label": 1,
+    "txid": "172568228160",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\173428729018.png",
+    "label": 1,
+    "txid": "173428729018",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\176374086334.png",
+    "label": 1,
+    "txid": "176374086334",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\182187375682.png",
+    "label": 1,
+    "txid": "182187375682",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\184487830344.png",
+    "label": 1,
+    "txid": "184487830344",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\190057945925.png",
+    "label": 1,
+    "txid": "190057945925",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\210957268805.png",
+    "label": 1,
+    "txid": "210957268805",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\222382043327.png",
+    "label": 1,
+    "txid": "222382043327",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\225002671173.png",
+    "label": 0,
+    "txid": "225002671173",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\225180067138.png",
+    "label": 1,
+    "txid": "225180067138",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\232171879612.png",
+    "label": 1,
+    "txid": "232171879612",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\244324832069.png",
+    "label": 1,
+    "txid": "244324832069",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\259255730498.png",
+    "label": 1,
+    "txid": "259255730498",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\267113779010.png",
+    "label": 1,
+    "txid": "267113779010",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\269583189425.png",
+    "label": 0,
+    "txid": "269583189425",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\270887454392.png",
+    "label": 0,
+    "txid": "270887454392",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\273937061192.png",
+    "label": 1,
+    "txid": "273937061192",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\277423186502.png",
+    "label": 1,
+    "txid": "277423186502",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\283171138993.png",
+    "label": 1,
+    "txid": "283171138993",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\290728783030.png",
+    "label": 1,
+    "txid": "290728783030",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\309983538102.png",
+    "label": 1,
+    "txid": "309983538102",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\318662027078.png",
+    "label": 1,
+    "txid": "318662027078",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\319185342538.png",
+    "label": 1,
+    "txid": "319185342538",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\325722455985.png",
+    "label": 1,
+    "txid": "325722455985",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\329539556029.png",
+    "label": 1,
+    "txid": "329539556029",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\336916579249.png",
+    "label": 1,
+    "txid": "336916579249",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\346212849841.png",
+    "label": 1,
+    "txid": "346212849841",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\348567984713.png",
+    "label": 1,
+    "txid": "348567984713",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\354186451390.png",
+    "label": 1,
+    "txid": "354186451390",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\354798396350.png",
+    "label": 1,
+    "txid": "354798396350",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\355056301493.png",
+    "label": 1,
+    "txid": "355056301493",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\361885417549.png",
+    "label": 1,
+    "txid": "361885417549",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\392992064698.png",
+    "label": 1,
+    "txid": "392992064698",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\398878110026.png",
+    "label": 0,
+    "txid": "398878110026",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\401129873841.png",
+    "label": 1,
+    "txid": "401129873841",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\401341442993.png",
+    "label": 1,
+    "txid": "401341442993",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\403431951293.png",
+    "label": 1,
+    "txid": "403431951293",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\410278626892.png",
+    "label": 1,
+    "txid": "410278626892",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\413558545995.png",
+    "label": 1,
+    "txid": "413558545995",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\417478220210.png",
+    "label": 1,
+    "txid": "417478220210",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\434048421956.png",
+    "label": 1,
+    "txid": "434048421956",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\434197864882.png",
+    "label": 1,
+    "txid": "434197864882",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\434545307064.png",
+    "label": 1,
+    "txid": "434545307064",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\446252516943.png",
+    "label": 0,
+    "txid": "446252516943",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\447750593604.png",
+    "label": 1,
+    "txid": "447750593604",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\450315197364.png",
+    "label": 1,
+    "txid": "450315197364",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\460053193919.png",
+    "label": 1,
+    "txid": "460053193919",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\462874315592.png",
+    "label": 1,
+    "txid": "462874315592",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\466298954432.png",
+    "label": 1,
+    "txid": "466298954432",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\468340039358.png",
+    "label": 1,
+    "txid": "468340039358",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\474407838912.png",
+    "label": 1,
+    "txid": "474407838912",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\478194659509.png",
+    "label": 1,
+    "txid": "478194659509",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\484980164165.png",
+    "label": 1,
+    "txid": "484980164165",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\491796440503.png",
+    "label": 0,
+    "txid": "491796440503",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\493457240250.png",
+    "label": 0,
+    "txid": "493457240250",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\516657711806.png",
+    "label": 1,
+    "txid": "516657711806",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\518717694911.png",
+    "label": 1,
+    "txid": "518717694911",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\525394511171.png",
+    "label": 1,
+    "txid": "525394511171",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\540851370061.png",
+    "label": 0,
+    "txid": "540851370061",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\554743234240.png",
+    "label": 1,
+    "txid": "554743234240",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\554832693315.png",
+    "label": 1,
+    "txid": "554832693315",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\555665241020.png",
+    "label": 1,
+    "txid": "555665241020",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\556400032444.png",
+    "label": 0,
+    "txid": "556400032444",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\557809825615.png",
+    "label": 1,
+    "txid": "557809825615",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\563252830400.png",
+    "label": 1,
+    "txid": "563252830400",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\565215309755.png",
+    "label": 1,
+    "txid": "565215309755",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\566471974069.png",
+    "label": 1,
+    "txid": "566471974069",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\567136128445.png",
+    "label": 1,
+    "txid": "567136128445",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\569490619972.png",
+    "label": 1,
+    "txid": "569490619972",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\570089579073.png",
+    "label": 1,
+    "txid": "570089579073",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\570493072575.png",
+    "label": 1,
+    "txid": "570493072575",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\574688274358.png",
+    "label": 1,
+    "txid": "574688274358",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\579238440383.png",
+    "label": 1,
+    "txid": "579238440383",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\582304021696.png",
+    "label": 1,
+    "txid": "582304021696",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\617837506748.png",
+    "label": 1,
+    "txid": "617837506748",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\633793477554.png",
+    "label": 1,
+    "txid": "633793477554",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\636995413828.png",
+    "label": 0,
+    "txid": "636995413828",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\638426651069.png",
+    "label": 1,
+    "txid": "638426651069",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\645462441287.png",
+    "label": 0,
+    "txid": "645462441287",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\649279955387.png",
+    "label": 1,
+    "txid": "649279955387",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\649542797503.png",
+    "label": 1,
+    "txid": "649542797503",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\650799904839.png",
+    "label": 1,
+    "txid": "650799904839",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\652901456314.png",
+    "label": 1,
+    "txid": "652901456314",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\657023659588.png",
+    "label": 1,
+    "txid": "657023659588",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\659378657213.png",
+    "label": 1,
+    "txid": "659378657213",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\661598843062.png",
+    "label": 1,
+    "txid": "661598843062",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\662218082890.png",
+    "label": 1,
+    "txid": "662218082890",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\669742848331.png",
+    "label": 1,
+    "txid": "669742848331",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\670682694592.png",
+    "label": 1,
+    "txid": "670682694592",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\671223858502.png",
+    "label": 1,
+    "txid": "671223858502",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\671788473930.png",
+    "label": 1,
+    "txid": "671788473930",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\677108240704.png",
+    "label": 1,
+    "txid": "677108240704",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\677770988107.png",
+    "label": 1,
+    "txid": "677770988107",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\685738925752.png",
+    "label": 1,
+    "txid": "685738925752",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\689809360309.png",
+    "label": 1,
+    "txid": "689809360309",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\698733391030.png",
+    "label": 1,
+    "txid": "698733391030",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\708271745870.png",
+    "label": 1,
+    "txid": "708271745870",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\713804198464.png",
+    "label": 1,
+    "txid": "713804198464",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\713963149755.png",
+    "label": 1,
+    "txid": "713963149755",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\716668117172.png",
+    "label": 1,
+    "txid": "716668117172",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\717410119606.png",
+    "label": 1,
+    "txid": "717410119606",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\719920856758.png",
+    "label": 1,
+    "txid": "719920856758",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\720028294731.png",
+    "label": 1,
+    "txid": "720028294731",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\722427833536.png",
+    "label": 1,
+    "txid": "722427833536",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\723606711372.png",
+    "label": 1,
+    "txid": "723606711372",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\725930095946.png",
+    "label": 1,
+    "txid": "725930095946",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\727759213123.png",
+    "label": 0,
+    "txid": "727759213123",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\728979258806.png",
+    "label": 1,
+    "txid": "728979258806",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\732589830478.png",
+    "label": 1,
+    "txid": "732589830478",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\739068637875.png",
+    "label": 1,
+    "txid": "739068637875",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\740780787902.png",
+    "label": 1,
+    "txid": "740780787902",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\744715360184.png",
+    "label": 1,
+    "txid": "744715360184",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\765941194422.png",
+    "label": 1,
+    "txid": "765941194422",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\766866360754.png",
+    "label": 1,
+    "txid": "766866360754",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\768008327352.png",
+    "label": 1,
+    "txid": "768008327352",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\771007567937.png",
+    "label": 1,
+    "txid": "771007567937",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\771305908036.png",
+    "label": 1,
+    "txid": "771305908036",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\773689805246.png",
+    "label": 1,
+    "txid": "773689805246",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\784628635213.png",
+    "label": 1,
+    "txid": "784628635213",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\787840606901.png",
+    "label": 1,
+    "txid": "787840606901",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\795439862719.png",
+    "label": 0,
+    "txid": "795439862719",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\796763867983.png",
+    "label": 1,
+    "txid": "796763867983",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\798619658168.png",
+    "label": 1,
+    "txid": "798619658168",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\801988742588.png",
+    "label": 1,
+    "txid": "801988742588",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\812238139582.png",
+    "label": 1,
+    "txid": "812238139582",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\813344571718.png",
+    "label": 1,
+    "txid": "813344571718",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\814668654148.png",
+    "label": 1,
+    "txid": "814668654148",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\815382926924.png",
+    "label": 1,
+    "txid": "815382926924",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\818002562744.png",
+    "label": 1,
+    "txid": "818002562744",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\818577664956.png",
+    "label": 1,
+    "txid": "818577664956",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\822905288886.png",
+    "label": 1,
+    "txid": "822905288886",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\825883459002.png",
+    "label": 1,
+    "txid": "825883459002",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\832551612086.png",
+    "label": 1,
+    "txid": "832551612086",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\834171870531.png",
+    "label": 1,
+    "txid": "834171870531",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\839764858700.png",
+    "label": 1,
+    "txid": "839764858700",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\841337970500.png",
+    "label": 0,
+    "txid": "841337970500",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\845201556154.png",
+    "label": 1,
+    "txid": "845201556154",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\851483541171.png",
+    "label": 1,
+    "txid": "851483541171",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\855568815951.png",
+    "label": 1,
+    "txid": "855568815951",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\858976006472.png",
+    "label": 1,
+    "txid": "858976006472",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\861083380043.png",
+    "label": 0,
+    "txid": "861083380043",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\866474986167.png",
+    "label": 1,
+    "txid": "866474986167",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\870635067575.png",
+    "label": 1,
+    "txid": "870635067575",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\872552124351.png",
+    "label": 1,
+    "txid": "872552124351",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\877610624703.png",
+    "label": 1,
+    "txid": "877610624703",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\879038254409.png",
+    "label": 1,
+    "txid": "879038254409",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\881745128774.png",
+    "label": 1,
+    "txid": "881745128774",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\883329066929.png",
+    "label": 0,
+    "txid": "883329066929",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\888520149438.png",
+    "label": 1,
+    "txid": "888520149438",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\890977074497.png",
+    "label": 1,
+    "txid": "890977074497",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\900305764426.png",
+    "label": 1,
+    "txid": "900305764426",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\901704239283.png",
+    "label": 1,
+    "txid": "901704239283",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\906257545403.png",
+    "label": 1,
+    "txid": "906257545403",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\907149671347.png",
+    "label": 1,
+    "txid": "907149671347",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\908832086606.png",
+    "label": 1,
+    "txid": "908832086606",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\919011909706.png",
+    "label": 1,
+    "txid": "919011909706",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\921017135294.png",
+    "label": 1,
+    "txid": "921017135294",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\922744759731.png",
+    "label": 1,
+    "txid": "922744759731",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\923758565958.png",
+    "label": 1,
+    "txid": "923758565958",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\926992962639.png",
+    "label": 1,
+    "txid": "926992962639",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\935324551864.png",
+    "label": 1,
+    "txid": "935324551864",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\936620917581.png",
+    "label": 1,
+    "txid": "936620917581",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\939922740037.png",
+    "label": 1,
+    "txid": "939922740037",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\941638161993.png",
+    "label": 1,
+    "txid": "941638161993",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\947809535808.png",
+    "label": 1,
+    "txid": "947809535808",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\951144179273.png",
+    "label": 1,
+    "txid": "951144179273",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\952721781827.png",
+    "label": 1,
+    "txid": "952721781827",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\964287855544.png",
+    "label": 1,
+    "txid": "964287855544",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\965574321341.png",
+    "label": 0,
+    "txid": "965574321341",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\965575363912.png",
+    "label": 1,
+    "txid": "965575363912",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\975270280771.png",
+    "label": 0,
+    "txid": "975270280771",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\979746705478.png",
+    "label": 0,
+    "txid": "979746705478",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\981922321990.png",
+    "label": 1,
+    "txid": "981922321990",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\983566739014.png",
+    "label": 1,
+    "txid": "983566739014",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\984347298496.png",
+    "label": 1,
+    "txid": "984347298496",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\986237200969.png",
+    "label": 0,
+    "txid": "986237200969",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\994953646145.png",
+    "label": 1,
+    "txid": "994953646145",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\999395024206.png",
+    "label": 1,
+    "txid": "999395024206",
+    "lot": "Lot3"
+  },
+  {
+    "image_path": "validation_images\\999480712114.png",
+    "label": 1,
+    "txid": "999480712114",
+    "lot": "Lot3"
+  }
+]

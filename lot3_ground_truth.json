@@ -1,0 +1,972 @@
+[
+  {
+    "txid": "100683721545",
+    "true_label": "valid",
+    "issues": "SxB"
+  },
+  {
+    "txid": "103752098888",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "105305868728",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "108166397110",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "109161234623",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "113888476861",
+    "true_label": "valid",
+    "issues": "CE?"
+  },
+  {
+    "txid": "123863906634",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "129919116613",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "148161566024",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "148417858747",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "148463971394",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "149522115008",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "151206618955",
+    "true_label": "valid",
+    "issues": "SXB"
+  },
+  {
+    "txid": "158034883405",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "158193408587",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "172568228160",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "173428729018",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "176374086334",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "182187375682",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "184487830344",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "190057945925",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "210957268805",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "222382043327",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "225002671173",
+    "true_label": "invalid",
+    "issues": "BT"
+  },
+  {
+    "txid": "225180067138",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "232171879612",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "244324832069",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "259255730498",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "267113779010",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "269583189425",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "270887454392",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "273937061192",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "277423186502",
+    "true_label": "valid",
+    "issues": "BOON??"
+  },
+  {
+    "txid": "283171138993",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "290728783030",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "309983538102",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "318662027078",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "319185342538",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "325722455985",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "329539556029",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "336916579249",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "346212849841",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "348567984713",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "354186451390",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "354798396350",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "355056301493",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "361885417549",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "392992064698",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "398878110026",
+    "true_label": "invalid",
+    "issues": "Partial BT, SXBOW"
+  },
+  {
+    "txid": "401129873841",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "401341442993",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "403431951293",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "410278626892",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "413558545995",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "417478220210",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "434048421956",
+    "true_label": "valid",
+    "issues": "SXB"
+  },
+  {
+    "txid": "434197864882",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "434545307064",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "446252516943",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "447750593604",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "450315197364",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "460053193919",
+    "true_label": "valid",
+    "issues": "BOON?"
+  },
+  {
+    "txid": "462874315592",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "466298954432",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "468340039358",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "474407838912",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "478194659509",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "484980164165",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "491796440503",
+    "true_label": "invalid",
+    "issues": "Partial BT, Angled Nx"
+  },
+  {
+    "txid": "493457240250",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "516657711806",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "518717694911",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "525394511171",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "540851370061",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "554743234240",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "554832693315",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "555665241020",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "556400032444",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "557809825615",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "563252830400",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "565215309755",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "566471974069",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "567136128445",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "569490619972",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "570089579073",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "570493072575",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "574688274358",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "579238440383",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "582304021696",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "617837506748",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "633793477554",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "636995413828",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "638426651069",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "645462441287",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "649279955387",
+    "true_label": "valid",
+    "issues": "BOOOONNN?"
+  },
+  {
+    "txid": "649542797503",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "650799904839",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "652901456314",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "657023659588",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "659378657213",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "661598843062",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "662218082890",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "669742848331",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "670682694592",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "671223858502",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "671788473930",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "677108240704",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "677770988107",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "685738925752",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "689809360309",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "698733391030",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "708271745870",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "713804198464",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "713963149755",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "716668117172",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "717410119606",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "719920856758",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "720028294731",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "722427833536",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "723606711372",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "725930095946",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "727759213123",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "728979258806",
+    "true_label": "valid",
+    "issues": "SXBOW"
+  },
+  {
+    "txid": "732589830478",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "739068637875",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "740780787902",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "744715360184",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "765941194422",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "766866360754",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "768008327352",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "771007567937",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "771305908036",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "773689805246",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "784628635213",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "787840606901",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "795439862719",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "796763867983",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "798619658168",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "801988742588",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "812238139582",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "813344571718",
+    "true_label": "valid",
+    "issues": "TOON"
+  },
+  {
+    "txid": "814668654148",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "815382926924",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "818002562744",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "818577664956",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "822905288886",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "825883459002",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "832551612086",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "834171870531",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "839764858700",
+    "true_label": "valid",
+    "issues": "SXB"
+  },
+  {
+    "txid": "841337970500",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "845201556154",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "851483541171",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "855568815951",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "858976006472",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "861083380043",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "866474986167",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "870635067575",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "872552124351",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "877610624703",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "879038254409",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "881745128774",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "883329066929",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "888520149438",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "890977074497",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "900305764426",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "901704239283",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "906257545403",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "907149671347",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "908832086606",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "919011909706",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "921017135294",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "922744759731",
+    "true_label": "valid",
+    "issues": "BOON?"
+  },
+  {
+    "txid": "923758565958",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "926992962639",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "935324551864",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "936620917581",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "939922740037",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "941638161993",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "947809535808",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "951144179273",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "952721781827",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "964287855544",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "965574321341",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "965575363912",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "975270280771",
+    "true_label": "invalid",
+    "issues": "Partial BT, SXB"
+  },
+  {
+    "txid": "979746705478",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "981922321990",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "983566739014",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "984347298496",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "986237200969",
+    "true_label": "invalid",
+    "issues": "Partial BT"
+  },
+  {
+    "txid": "994953646145",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "999395024206",
+    "true_label": "valid",
+    "issues": ""
+  },
+  {
+    "txid": "999480712114",
+    "true_label": "valid",
+    "issues": ""
+  }
+]

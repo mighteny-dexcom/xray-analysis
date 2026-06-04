@@ -1,0 +1,2413 @@
+{
+  "metadata": {
+    "description": "X-ray images labeled for Battery Tab (BT) validation - BT = invalid",
+    "task": "Battery Tab (BT) detection - valid images have NO BT",
+    "total_samples": 200,
+    "valid_count": 181,
+    "invalid_count": 19,
+    "source_excel": "Lot2_md.xlsx",
+    "created": "2026-06-03"
+  },
+  "samples": [
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\101082076340.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "101082076340.png",
+        "txid": "101082076340",
+        "xray_issues": "SXBOW",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\101417395279.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "101417395279.png",
+        "txid": "101417395279",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\102893416258.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "102893416258.png",
+        "txid": "102893416258",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\103621423795.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "103621423795.png",
+        "txid": "103621423795",
+        "xray_issues": "Partial BT, SXBOW",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\105786274746.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "105786274746.png",
+        "txid": "105786274746",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\106531346109.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "106531346109.png",
+        "txid": "106531346109",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\113787317179.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "113787317179.png",
+        "txid": "113787317179",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\114079399752.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "114079399752.png",
+        "txid": "114079399752",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\118983560625.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "118983560625.png",
+        "txid": "118983560625",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\119447965120.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "119447965120.png",
+        "txid": "119447965120",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\120397349956.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "120397349956.png",
+        "txid": "120397349956",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\120804631108.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "120804631108.png",
+        "txid": "120804631108",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\142041456310.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "142041456310.png",
+        "txid": "142041456310",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\142836539826.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "142836539826.png",
+        "txid": "142836539826",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\143815546190.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "143815546190.png",
+        "txid": "143815546190",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\144724937404.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "144724937404.png",
+        "txid": "144724937404",
+        "xray_issues": "BT, SXA",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\163226655670.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "163226655670.png",
+        "txid": "163226655670",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\166088960583.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "166088960583.png",
+        "txid": "166088960583",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\167893551801.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "167893551801.png",
+        "txid": "167893551801",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\172587457869.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "172587457869.png",
+        "txid": "172587457869",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\178037104203.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "178037104203.png",
+        "txid": "178037104203",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\178903546689.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "178903546689.png",
+        "txid": "178903546689",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\180921679689.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "180921679689.png",
+        "txid": "180921679689",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\182903689144.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "182903689144.png",
+        "txid": "182903689144",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\197261906759.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "197261906759.png",
+        "txid": "197261906759",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\199882740928.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "199882740928.png",
+        "txid": "199882740928",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\202982049212.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "202982049212.png",
+        "txid": "202982049212",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\211243928143.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "211243928143.png",
+        "txid": "211243928143",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\215026030671.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "215026030671.png",
+        "txid": "215026030671",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\215557382217.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "215557382217.png",
+        "txid": "215557382217",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\221363404621.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "221363404621.png",
+        "txid": "221363404621",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\223664320070.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "223664320070.png",
+        "txid": "223664320070",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\228025973575.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "228025973575.png",
+        "txid": "228025973575",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\232638946742.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "232638946742.png",
+        "txid": "232638946742",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\235372382398.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "235372382398.png",
+        "txid": "235372382398",
+        "xray_issues": "BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\235396922814.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "235396922814.png",
+        "txid": "235396922814",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\235645375414.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "235645375414.png",
+        "txid": "235645375414",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\240888036792.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "240888036792.png",
+        "txid": "240888036792",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\247366902965.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "247366902965.png",
+        "txid": "247366902965",
+        "xray_issues": "Partial BT, CE",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\251479730617.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "251479730617.png",
+        "txid": "251479730617",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\252891592891.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "252891592891.png",
+        "txid": "252891592891",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\253653870262.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "253653870262.png",
+        "txid": "253653870262",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\259363392331.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "259363392331.png",
+        "txid": "259363392331",
+        "xray_issues": "REIMAGE",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\264945833804.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "264945833804.png",
+        "txid": "264945833804",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\265045351752.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "265045351752.png",
+        "txid": "265045351752",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\265680282555.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "265680282555.png",
+        "txid": "265680282555",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\266468327859.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "266468327859.png",
+        "txid": "266468327859",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\267128816061.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "267128816061.png",
+        "txid": "267128816061",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\276823697339.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "276823697339.png",
+        "txid": "276823697339",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\280705077948.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "280705077948.png",
+        "txid": "280705077948",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\289575705783.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "289575705783.png",
+        "txid": "289575705783",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\289672022859.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "289672022859.png",
+        "txid": "289672022859",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\296569259963.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "296569259963.png",
+        "txid": "296569259963",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\308978034359.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "308978034359.png",
+        "txid": "308978034359",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\314230865735.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "314230865735.png",
+        "txid": "314230865735",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\316842205516.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "316842205516.png",
+        "txid": "316842205516",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\327432181430.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "327432181430.png",
+        "txid": "327432181430",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\331918778302.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "331918778302.png",
+        "txid": "331918778302",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\341487519931.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "341487519931.png",
+        "txid": "341487519931",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\346459418046.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "346459418046.png",
+        "txid": "346459418046",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\349088410559.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "349088410559.png",
+        "txid": "349088410559",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\357770993597.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "357770993597.png",
+        "txid": "357770993597",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\358682804920.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "358682804920.png",
+        "txid": "358682804920",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\373534903368.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "373534903368.png",
+        "txid": "373534903368",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\373664986695.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "373664986695.png",
+        "txid": "373664986695",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\398868902217.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "398868902217.png",
+        "txid": "398868902217",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\422949066061.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "422949066061.png",
+        "txid": "422949066061",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\428831238581.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "428831238581.png",
+        "txid": "428831238581",
+        "xray_issues": "SXBOW, SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\435589989703.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "435589989703.png",
+        "txid": "435589989703",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\437383639117.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "437383639117.png",
+        "txid": "437383639117",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\443045783985.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "443045783985.png",
+        "txid": "443045783985",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\447338559157.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "447338559157.png",
+        "txid": "447338559157",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\451762379192.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "451762379192.png",
+        "txid": "451762379192",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\460950866510.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "460950866510.png",
+        "txid": "460950866510",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\462946971323.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "462946971323.png",
+        "txid": "462946971323",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\464548679869.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "464548679869.png",
+        "txid": "464548679869",
+        "xray_issues": "BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\466021835338.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "466021835338.png",
+        "txid": "466021835338",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\466566682043.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "466566682043.png",
+        "txid": "466566682043",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\467460732083.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "467460732083.png",
+        "txid": "467460732083",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\472468127053.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "472468127053.png",
+        "txid": "472468127053",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\477299306677.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "477299306677.png",
+        "txid": "477299306677",
+        "xray_issues": "BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\480227736387.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "480227736387.png",
+        "txid": "480227736387",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\480837496767.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "480837496767.png",
+        "txid": "480837496767",
+        "xray_issues": "SXBOW, SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\482733349698.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "482733349698.png",
+        "txid": "482733349698",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\486760335284.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "486760335284.png",
+        "txid": "486760335284",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\488619217592.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "488619217592.png",
+        "txid": "488619217592",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\491105155005.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "491105155005.png",
+        "txid": "491105155005",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\491847717562.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "491847717562.png",
+        "txid": "491847717562",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\496142704973.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "496142704973.png",
+        "txid": "496142704973",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\510805316419.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "510805316419.png",
+        "txid": "510805316419",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\513930517687.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "513930517687.png",
+        "txid": "513930517687",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\516616017341.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "516616017341.png",
+        "txid": "516616017341",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\523050548921.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "523050548921.png",
+        "txid": "523050548921",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\524138358857.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "524138358857.png",
+        "txid": "524138358857",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\527172737352.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "527172737352.png",
+        "txid": "527172737352",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\529867870791.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "529867870791.png",
+        "txid": "529867870791",
+        "xray_issues": "Partial BT, SXA",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\536009871026.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "536009871026.png",
+        "txid": "536009871026",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\547114798663.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "547114798663.png",
+        "txid": "547114798663",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\551048738749.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "551048738749.png",
+        "txid": "551048738749",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\555630700359.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "555630700359.png",
+        "txid": "555630700359",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\556195332168.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "556195332168.png",
+        "txid": "556195332168",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\556611973699.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "556611973699.png",
+        "txid": "556611973699",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\559537198518.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "559537198518.png",
+        "txid": "559537198518",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\561323951683.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "561323951683.png",
+        "txid": "561323951683",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\561728504132.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "561728504132.png",
+        "txid": "561728504132",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\563046534976.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "563046534976.png",
+        "txid": "563046534976",
+        "xray_issues": "SXA, BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\572368203699.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "572368203699.png",
+        "txid": "572368203699",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\572486126519.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "572486126519.png",
+        "txid": "572486126519",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\576936051009.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "576936051009.png",
+        "txid": "576936051009",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\587059559616.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "587059559616.png",
+        "txid": "587059559616",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\588847129666.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "588847129666.png",
+        "txid": "588847129666",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\590370280892.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "590370280892.png",
+        "txid": "590370280892",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\605428579911.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "605428579911.png",
+        "txid": "605428579911",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\612300431435.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "612300431435.png",
+        "txid": "612300431435",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\615612819377.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "615612819377.png",
+        "txid": "615612819377",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\618816451764.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "618816451764.png",
+        "txid": "618816451764",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\620444882609.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "620444882609.png",
+        "txid": "620444882609",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\621374394181.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "621374394181.png",
+        "txid": "621374394181",
+        "xray_issues": "Partial BT, SXA",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\622975995069.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "622975995069.png",
+        "txid": "622975995069",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\623317835073.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "623317835073.png",
+        "txid": "623317835073",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\623666799689.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "623666799689.png",
+        "txid": "623666799689",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\625023228491.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "625023228491.png",
+        "txid": "625023228491",
+        "xray_issues": "BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\625447992498.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "625447992498.png",
+        "txid": "625447992498",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\626620830530.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "626620830530.png",
+        "txid": "626620830530",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\629973646147.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "629973646147.png",
+        "txid": "629973646147",
+        "xray_issues": "CE, SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\635414170436.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "635414170436.png",
+        "txid": "635414170436",
+        "xray_issues": "BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\636235740226.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "636235740226.png",
+        "txid": "636235740226",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\639371999050.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "639371999050.png",
+        "txid": "639371999050",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\640220786500.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "640220786500.png",
+        "txid": "640220786500",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\652762227897.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "652762227897.png",
+        "txid": "652762227897",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\653692861369.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "653692861369.png",
+        "txid": "653692861369",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\659305212856.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "659305212856.png",
+        "txid": "659305212856",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\661488970060.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "661488970060.png",
+        "txid": "661488970060",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\671392252608.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "671392252608.png",
+        "txid": "671392252608",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\672795451464.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "672795451464.png",
+        "txid": "672795451464",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\672938473544.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "672938473544.png",
+        "txid": "672938473544",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\675060096582.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "675060096582.png",
+        "txid": "675060096582",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\679018572733.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "679018572733.png",
+        "txid": "679018572733",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\682207035825.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "682207035825.png",
+        "txid": "682207035825",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\690958042446.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "690958042446.png",
+        "txid": "690958042446",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\692136125001.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "692136125001.png",
+        "txid": "692136125001",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\702782766407.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "702782766407.png",
+        "txid": "702782766407",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\704980008889.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "704980008889.png",
+        "txid": "704980008889",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\708467886516.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "708467886516.png",
+        "txid": "708467886516",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\712343534271.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "712343534271.png",
+        "txid": "712343534271",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\715819457462.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "715819457462.png",
+        "txid": "715819457462",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\718114798007.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "718114798007.png",
+        "txid": "718114798007",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\722860188083.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "722860188083.png",
+        "txid": "722860188083",
+        "xray_issues": "BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\729013613897.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "729013613897.png",
+        "txid": "729013613897",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\737627454388.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "737627454388.png",
+        "txid": "737627454388",
+        "xray_issues": "SXA, BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\739981398965.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "739981398965.png",
+        "txid": "739981398965",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\743139038652.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "743139038652.png",
+        "txid": "743139038652",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\765317642058.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "765317642058.png",
+        "txid": "765317642058",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\766760780209.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "766760780209.png",
+        "txid": "766760780209",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\767241138111.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "767241138111.png",
+        "txid": "767241138111",
+        "xray_issues": "SXA, BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\768206443190.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "768206443190.png",
+        "txid": "768206443190",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\768265782965.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "768265782965.png",
+        "txid": "768265782965",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\770764750413.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "770764750413.png",
+        "txid": "770764750413",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\773122333876.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "773122333876.png",
+        "txid": "773122333876",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\781675750070.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "781675750070.png",
+        "txid": "781675750070",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\783056375118.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "783056375118.png",
+        "txid": "783056375118",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\783886284475.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "783886284475.png",
+        "txid": "783886284475",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\786463671873.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "786463671873.png",
+        "txid": "786463671873",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\789106797385.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "789106797385.png",
+        "txid": "789106797385",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\806577898944.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "806577898944.png",
+        "txid": "806577898944",
+        "xray_issues": "BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\807180007352.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "807180007352.png",
+        "txid": "807180007352",
+        "xray_issues": "BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\814283221949.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "814283221949.png",
+        "txid": "814283221949",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\814616524367.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "814616524367.png",
+        "txid": "814616524367",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\825434618549.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "825434618549.png",
+        "txid": "825434618549",
+        "xray_issues": "Partial BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\825918978638.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "825918978638.png",
+        "txid": "825918978638",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\826549000380.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "826549000380.png",
+        "txid": "826549000380",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\838104889792.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "838104889792.png",
+        "txid": "838104889792",
+        "xray_issues": "BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\840798331317.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "840798331317.png",
+        "txid": "840798331317",
+        "xray_issues": "SXBOW",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\844201600577.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "844201600577.png",
+        "txid": "844201600577",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\861528190910.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "861528190910.png",
+        "txid": "861528190910",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\872570087100.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "872570087100.png",
+        "txid": "872570087100",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\875291186354.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "875291186354.png",
+        "txid": "875291186354",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\875582454449.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "875582454449.png",
+        "txid": "875582454449",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\880026335306.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "880026335306.png",
+        "txid": "880026335306",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\886363630927.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "886363630927.png",
+        "txid": "886363630927",
+        "xray_issues": "SXB",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\903525848136.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "903525848136.png",
+        "txid": "903525848136",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\916409262914.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "916409262914.png",
+        "txid": "916409262914",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\938264321202.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "938264321202.png",
+        "txid": "938264321202",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\940200980403.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "940200980403.png",
+        "txid": "940200980403",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\940489148994.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "940489148994.png",
+        "txid": "940489148994",
+        "xray_issues": "SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\943043142835.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "943043142835.png",
+        "txid": "943043142835",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\945647930949.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "945647930949.png",
+        "txid": "945647930949",
+        "xray_issues": "SXBOW, SXA",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\946978196408.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "946978196408.png",
+        "txid": "946978196408",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\947534891080.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "947534891080.png",
+        "txid": "947534891080",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\953673918650.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "953673918650.png",
+        "txid": "953673918650",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\963663945294.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "963663945294.png",
+        "txid": "963663945294",
+        "xray_issues": "BOON",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\965728653642.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "965728653642.png",
+        "txid": "965728653642",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\970051115086.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "970051115086.png",
+        "txid": "970051115086",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\975655345738.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "975655345738.png",
+        "txid": "975655345738",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\982427299913.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "982427299913.png",
+        "txid": "982427299913",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\985381156530.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "985381156530.png",
+        "txid": "985381156530",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\988175188917.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "988175188917.png",
+        "txid": "988175188917",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\990163597122.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "990163597122.png",
+        "txid": "990163597122",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\994210567611.png",
+      "label": "invalid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "994210567611.png",
+        "txid": "994210567611",
+        "xray_issues": "BT",
+        "has_bt": true
+      }
+    },
+    {
+      "image_path": "c:\\Users\\ug10271\\OneDrive - Dexcom\\Documents\\CodeProjects\\xray-analysis\\training_images\\996794675782.png",
+      "label": "valid",
+      "region_of_interest": null,
+      "metadata": {
+        "source": "real_xray",
+        "filename": "996794675782.png",
+        "txid": "996794675782",
+        "xray_issues": "",
+        "has_bt": false
+      }
+    }
+  ]
+}
