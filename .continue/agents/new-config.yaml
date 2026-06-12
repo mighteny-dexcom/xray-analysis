@@ -1,0 +1,54 @@
+name: Hybrid Local + Agent Config
+version: 1.0.0
+schema: v1
+
+models:
+  # ✅ LOCAL MODELS (fast / no cost)
+  - name: Local Qwen Coder
+    provider: ollama
+    model: qwen2.5-coder:7b
+
+  - name: Local Qwen 3.5
+    provider: ollama
+    model: qwen3.5
+
+  - name: Local Gemma
+    provider: ollama
+    model: gemma:4b
+
+  # ✅ CLOUD MODEL (REAL AGENT)
+  - name: Agent GPT (recommended)
+    provider: openai
+    model: gpt-4.1-mini
+    apiKey: YOUR_OPENAI_API_KEY
+
+  # ✅ Optional Claude (great for agents too)
+  - name: Agent Claude
+    provider: anthropic
+    model: claude-3-7-sonnet-latest
+    apiKey: YOUR_ANTHROPIC_API_KEY
+
+
+# ✅ GLOBAL SETTINGS (critical fixes)
+completionOptions:
+  temperature: 0.2
+  maxTokens: 400
+
+requestOptions:
+  timeout: 210000   # VERY IMPORTANT: fixes your timeouts
+
+
+# ✅ BEHAVIOR CONTROL (fixes your current issues)
+systemMessage: |
+  You are operating inside a Windows VSCode workspace.
+
+  Rules:
+  - Do NOT use Linux paths like /mnt or /root
+  - Only use relative or Windows-style paths
+  - Do NOT claim to execute code unless tools are explicitly available
+  - If a task requires editing multiple files or running commands, suggest switching to an agent model
+  - Keep responses concise and practical
+
+
+# ✅ (Optional) MCP tools — leave minimal for now
+mcpServers: []
