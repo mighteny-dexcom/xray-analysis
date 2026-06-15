@@ -1,13 +1,18 @@
-XRay Analysis – Battery Tab Defect Detection (Deep Learning Pipeline)
-This project implements a deep learning–based screening system for detecting battery tab (BT / pBT) defects in X-ray images using transfer learning (ResNet18) and ROI-based modeling.
+# XRay Analysis – Battery Tab Defect Detection (Deep Learning Pipeline)
+
+This project implements a **deep learning–based screening system** for detecting battery tab (BT / pBT) defects in X-ray images using **transfer learning (ResNet18)** and **ROI-based modeling**.
+
 ---
-Project Structure
+
+## 📁 Project Structure
+
+```text
 xray-analysis/
-├── train_xray_v2_screening.py        # holdout-lot experiments
-├── train_xray_v3_all_lots_split.py   # all-lot stratified training
-├── train_xray_v3_all_lots_split_roi.py  # ROI-enhanced training
-├── evaluate_thresholds.py            # threshold sweep
-├── infer_lot4.py                     # inference on new lots
+├── train_xray_v2_screening.py           # holdout-lot experiments
+├── train_xray_v3_all_lots_split.py      # all-lot stratified training
+├── train_xray_v3_all_lots_split_roi.py  # ROI-enhanced training (best model)
+├── evaluate_thresholds.py               # threshold sweep
+├── infer_lot4.py                        # inference on new lots
 ├── models/
 ├── lot*_images/
 └── README.md
